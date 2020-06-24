@@ -1,5 +1,5 @@
 def find_max_value(array)
-  end = array.length 
+  n = array.length 
   array.sort! 
-  array[end]
+  array[n]
 end
